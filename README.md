@@ -1,2 +1,5 @@
-# app-dev
-My first repository.
+{
+  "character": "Maharaja",
+  "motivation": "Vengeance",
+  "theme": "Justice and Redemption"
+}
